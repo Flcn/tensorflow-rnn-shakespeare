@@ -1,0 +1,4 @@
+tf:
+ image: tensorflow/tensorflow:latest-py3
+ volumes:
+  - $PWD/code:/code
